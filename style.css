@@ -1,0 +1,368 @@
+.h31 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    justify-content: center;
+}
+
+.h11 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+
+
+}
+
+
+.h12 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+
+.h4 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.h1black {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.newyearimg {
+    background-image: url('/resources/New Year Photo.png');
+    margin-inline: auto;
+    padding: 0;
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    flex-wrap: wrap;
+}
+
+.redtext {
+    color: #F00;
+}
+
+.par {
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 100px 0;
+}
+
+.button {
+    border-radius: 8px;
+    background: #F00;
+    padding: 16px 32px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+}
+
+.buttonsize {
+    text-align: center;
+}
+
+section {
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+header {
+    margin-inline: auto;
+    padding: 0;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('/resources/BannerImage.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 50 140;
+
+}
+
+.tag1 {
+
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 30px;
+    line-height: 1.6;
+
+
+}
+
+.tag2 {
+
+    color: #FFF;
+    margin-left: 126px;
+    font-family: Merriweather;
+    font-size: 20px;
+
+    font-weight: 900;
+    letter-spacing: 7.04px;
+
+}
+
+header2 {
+    margin-inline: auto;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('/resources/Vectorrr.png');
+}
+
+.tag3 {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    margin-inline: auto;
+}
+
+.t2024 {
+padding: 68px 138px ;
+}
+
+.form {
+    height: 72px;
+    width: 648px;
+}
+
+input::placeholder {
+    display: flex;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.icn {
+    display: flex;
+    padding-left: 350px;
+    padding-top: 0px;
+}
+
+.about2 {
+
+    padding-top: 0px;
+    padding-bottom: 140px;
+    padding-left: 140px;
+    border-radius: 10px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 100px 0;
+}
+
+.news {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    padding-left: 170px;
+}
+
+.pnews {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+
+.footer-colum {}
+
+.h5 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */
+
+}
+
+.h1black1 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.nightparty{
+    color: #FFF;
+    padding-left: 140px;
+font-family: Merriweather;
+font-size: 64px;
+
+font-weight: 900;
+}
+
+.nightparty2{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    inline-size: auto;
+}
+
+.portfolio{
+    width: 1600px;
+    height: 1233px;   
+    background: #FFF;
+    align-items: center;
+    padding-bottom: ;
+}
+.portfolio1{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.portfolio2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.portfolio3{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+width: 896px;
+}
+
+.bottomleft {
+    position:static;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
+  .saleback{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+  }
+
+  .flix{
+    background-image: url('/resources/New Year Photo.png');
+  }
+
+  .nbo{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
+  }
+
+  .cms{
+
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+  }
+
+  .dolor{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+  }
+
+  .lightpic
+  {
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 364.844px;
+background: url("/resources/Ellipse\ 1.png"), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+  }
+
+  .column{
+
+    width: 50%;
+   justify-content: space-around;
+  }
+
+
+ 
+    .footer {
+        padding: 130px;
+        border-radius: 10px;
+        background: rgba(0, 0, 0, 0.05);
+        margin: 100px 0;
+    }
+a  
