@@ -50,7 +50,7 @@
 }
 
 .newyearimg {
-    background-image: url('/resources/New Year Photo.png');
+    background-image: url('./resources/New Year Photo.png');
     margin-inline: auto;
     padding: 0;
     width: 802.9px;
@@ -167,7 +167,7 @@ header2 {
 }
 
 .t2024 {
-padding: 68px 138px ;
+    padding: 68px 138px;
 }
 
 .form {
@@ -175,8 +175,8 @@ padding: 68px 138px ;
     height: 72px;
     flex-shrink: 0;
     border-radius: 50px;
-background: #FFF;
-padding-left: 30px;
+    background: #FFF;
+    padding-left: 30px;
 }
 
 input::placeholder {
@@ -224,7 +224,7 @@ input::placeholder {
 }
 
 
-.footer-colum {}
+
 
 .h5 {
     color: rgba(7, 2, 17, 0.60);
@@ -233,7 +233,8 @@ input::placeholder {
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 32px; /* 160% */
+    line-height: 32px;
+    /* 160% */
 
 }
 
@@ -245,130 +246,167 @@ input::placeholder {
     font-weight: 500;
 
 }
-.nightparty{
+
+.nightparty {
     color: #FFF;
     padding-left: 140px;
-font-family: Merriweather;
-font-size: 64px;
+    font-family: Merriweather;
+    font-size: 64px;
 
-font-weight: 900;
+    font-weight: 900;
 }
 
-.nightparty2{
+.nightparty2 {
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 30px; /* 166.667% */
+    line-height: 30px;
+   
     inline-size: auto;
 }
 
-.portfolio{
+.portfolio {
     width: 1600px;
-    height: 1233px;   
+    height: 1233px;
     background: #FFF;
     align-items: center;
     padding-bottom: ;
 }
-.portfolio1{
+
+.portfolio1 {
     color: #F00;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
-.portfolio2{
+
+.portfolio2 {
     color: #070211;
-font-family: Merriweather;
-font-size: 48px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
 }
-.portfolio3{
+
+.portfolio3 {
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
-width: 896px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    width: 896px;
 }
 
 .bottomleft {
-    position:static;
+    position: static;
     bottom: 8px;
     left: 16px;
     font-size: 18px;
-  }
-  .saleback{
+}
+
+.saleback {
     color: #070211;
     font-family: Merriweather;
     font-size: 72px;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
-  }
+}
 
-  .flix{
+.flix {
     background-image: url('/resources/New Year Photo.png');
-  }
+}
 
-  .nbo{
+.nbo {
     color: #F00;
-font-family: Inter;
-font-size: 24px;
+    font-family: Inter;
+    font-size: 24px;
 
-font-weight: 500;
-  }
+    font-weight: 500;
+}
 
-  .cms{
+.cms {
 
     color: #070211;
-font-family: Merriweather;
-font-size: 48px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
-  }
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
 
-  .dolor{
+.dolor {
     width: 393px;
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
-  }
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
 
-  .lightpic
-  {
+.lightpic {
     width: 364.844px;
     height: 364.844px;
     flex-shrink: 0;
     border-radius: 364.844px;
-background: url("./resources/Ellipse\ 1.png"), lightgray -91.279px 0px / 150.038% 100% no-repeat;
-  }
+    background: url("./resources/Ellipse\ 1.png"), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+}
 
-  .column{
+.column {
 
     width: 50%;
-   justify-content: space-around;
-  }
+    justify-content: space-around;
+}
 
 
- 
-    .footer {
-        padding: 130px;
-        border-radius: 10px;
-        background: rgba(0, 0, 0, 0.05);
-        margin: 100px 0;
-    }
-.formsize{
+
+.footer {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.formsize {
     padding-left: 180px;
 }
+
+.div1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 1px;
+}
+
+.container {
+    width: 820px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    padding: 100px;
+  }
+  .text {
+    display: flex;
+    justify-content: space-around;
+  }
+  .social-icon {
+    border-top: 2px solid slategray;
+    border-bottom: 2px solid slategray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
