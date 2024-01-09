@@ -147,7 +147,7 @@ header {
 }
 
 header2 {
-    margin-inline: auto;
+    margin: auto;
     width: 1320px;
     height: 600px;
     display: flex;
@@ -263,7 +263,7 @@ input::placeholder {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
-   
+
     inline-size: auto;
 }
 
@@ -372,6 +372,7 @@ input::placeholder {
 
 
 .footer {
+    margin-inline: auto;
     margin: auto;
     width: 50%;
     padding: 10px;
@@ -397,16 +398,28 @@ input::placeholder {
     background-color: black;
     color: white;
     padding: 100px;
-  }
-  .text {
+}
+
+.text {
     display: flex;
     justify-content: space-around;
-  }
-  .social-icon {
+}
+
+.social-icon {
     border-top: 2px solid slategray;
     border-bottom: 2px solid slategray;
     color: white;
     display: flex;
     justify-content: center;
     gap: 20px;
-  }
+}
+
+.joinnow1 {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 700;
+
+}
